@@ -1,0 +1,4 @@
+gradle version 2.14.1**
+D:\androidSDK\gradle\gradle-2.14.1
+API 24: Android 7.0 (Nougat)
+version 2.2.0
